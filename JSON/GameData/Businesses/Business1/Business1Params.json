@@ -1,0 +1,24 @@
+[
+    {
+        "BusinessPrice":0.0,
+        "BusinessWorkTime":20.0,
+        "BusinessScaleChange0":2.083333333,
+        "BusinessScaleChange1":0,
+        "BusinessScaleChange2":0,
+        "BusinessScaleChange3":-0.2083333333,
+        "BusinessScaleChange4":-0.2083333333,
+        "BusinessScaleChange5":-0.2083333333,
+        "BusinessScaleChange6":-0.2083333333,
+        "BusinessObservationDeck1":1.0,
+        "BusinessObservationDeck2":2.0,
+        "BusinessObservationDeck3":3.0,
+        "BusinessServiceManagerWalkTimeKitchen":9.2,
+        "BusinessServiceManagerWalkTimeClean":9.2,
+        "BusinessIsland1LevelLimit":500.0,
+        "BusinessIsland2LevelLimit":1500.0,
+        "BusinessIsland3LevelLimit":2500.0,
+        "BusinessIsland4LevelLimit":3500.0,
+        "BusinessIsland5LevelLimit":4500.0,
+        "BusinessIsland6LevelLimit":5000.0
+    }
+]

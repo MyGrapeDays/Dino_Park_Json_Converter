@@ -1,0 +1,502 @@
+[
+  {
+    "LevelServiceSpeed": 60,
+    "LevelPrice": 0,
+    "LevelID": 1
+  },
+  {
+    "LevelServiceSpeed": 58.95,
+    "LevelPrice": 1880,
+    "LevelID": 2
+  },
+  {
+    "LevelServiceSpeed": 57.89,
+    "LevelPrice": 2538,
+    "LevelID": 3
+  },
+  {
+    "LevelServiceSpeed": 56.84,
+    "LevelPrice": 3426,
+    "LevelID": 4
+  },
+  {
+    "LevelServiceSpeed": 55.79,
+    "LevelPrice": 4625,
+    "LevelID": 5
+  },
+  {
+    "LevelServiceSpeed": 54.74,
+    "LevelPrice": 6243,
+    "LevelID": 6
+  },
+  {
+    "LevelServiceSpeed": 53.68,
+    "LevelPrice": 8428,
+    "LevelID": 7
+  },
+  {
+    "LevelServiceSpeed": 52.63,
+    "LevelPrice": 11377,
+    "LevelID": 8
+  },
+  {
+    "LevelServiceSpeed": 51.58,
+    "LevelPrice": 15358,
+    "LevelID": 9
+  },
+  {
+    "LevelServiceSpeed": 50.53,
+    "LevelPrice": 20733,
+    "LevelID": 10
+  },
+  {
+    "LevelServiceSpeed": 49.47,
+    "LevelPrice": 27989,
+    "LevelID": 11
+  },
+  {
+    "LevelServiceSpeed": 48.42,
+    "LevelPrice": 37785,
+    "LevelID": 12
+  },
+  {
+    "LevelServiceSpeed": 47.37,
+    "LevelPrice": 51009,
+    "LevelID": 13
+  },
+  {
+    "LevelServiceSpeed": 46.32,
+    "LevelPrice": 68862,
+    "LevelID": 14
+  },
+  {
+    "LevelServiceSpeed": 45.26,
+    "LevelPrice": 92963,
+    "LevelID": 15
+  },
+  {
+    "LevelServiceSpeed": 44.21,
+    "LevelPrice": 125500,
+    "LevelID": 16
+  },
+  {
+    "LevelServiceSpeed": 43.16,
+    "LevelPrice": 169425,
+    "LevelID": 17
+  },
+  {
+    "LevelServiceSpeed": 42.11,
+    "LevelPrice": 228723,
+    "LevelID": 18
+  },
+  {
+    "LevelServiceSpeed": 41.05,
+    "LevelPrice": 308776,
+    "LevelID": 19
+  },
+  {
+    "LevelServiceSpeed": 40,
+    "LevelPrice": 416847,
+    "LevelID": 20
+  },
+  {
+    "LevelServiceSpeed": 39.25,
+    "LevelPrice": 562743,
+    "LevelID": 21
+  },
+  {
+    "LevelServiceSpeed": 38.5,
+    "LevelPrice": 759703,
+    "LevelID": 22
+  },
+  {
+    "LevelServiceSpeed": 37.75,
+    "LevelPrice": 1025599,
+    "LevelID": 23
+  },
+  {
+    "LevelServiceSpeed": 37,
+    "LevelPrice": 1384558,
+    "LevelID": 24
+  },
+  {
+    "LevelServiceSpeed": 36.25,
+    "LevelPrice": 1869153,
+    "LevelID": 25
+  },
+  {
+    "LevelServiceSpeed": 35.5,
+    "LevelPrice": 2523356,
+    "LevelID": 26
+  },
+  {
+    "LevelServiceSpeed": 34.75,
+    "LevelPrice": 3406530,
+    "LevelID": 27
+  },
+  {
+    "LevelServiceSpeed": 34,
+    "LevelPrice": 4598815,
+    "LevelID": 28
+  },
+  {
+    "LevelServiceSpeed": 33.25,
+    "LevelPrice": 6208400,
+    "LevelID": 29
+  },
+  {
+    "LevelServiceSpeed": 32.5,
+    "LevelPrice": 8381340,
+    "LevelID": 30
+  },
+  {
+    "LevelServiceSpeed": 31.75,
+    "LevelPrice": 11314809,
+    "LevelID": 31
+  },
+  {
+    "LevelServiceSpeed": 31,
+    "LevelPrice": 15274992,
+    "LevelID": 32
+  },
+  {
+    "LevelServiceSpeed": 30.25,
+    "LevelPrice": 20621239,
+    "LevelID": 33
+  },
+  {
+    "LevelServiceSpeed": 29.5,
+    "LevelPrice": 27838672,
+    "LevelID": 34
+  },
+  {
+    "LevelServiceSpeed": 28.75,
+    "LevelPrice": 37582207,
+    "LevelID": 35
+  },
+  {
+    "LevelServiceSpeed": 28,
+    "LevelPrice": 50735979,
+    "LevelID": 36
+  },
+  {
+    "LevelServiceSpeed": 27.25,
+    "LevelPrice": 68493571,
+    "LevelID": 37
+  },
+  {
+    "LevelServiceSpeed": 26.5,
+    "LevelPrice": 92466320,
+    "LevelID": 38
+  },
+  {
+    "LevelServiceSpeed": 25.75,
+    "LevelPrice": 124829532,
+    "LevelID": 39
+  },
+  {
+    "LevelServiceSpeed": 25,
+    "LevelPrice": 168519868,
+    "LevelID": 40
+  },
+  {
+    "LevelServiceSpeed": 24.55,
+    "LevelPrice": 227501821,
+    "LevelID": 41
+  },
+  {
+    "LevelServiceSpeed": 24.1,
+    "LevelPrice": 307127458,
+    "LevelID": 42
+  },
+  {
+    "LevelServiceSpeed": 23.65,
+    "LevelPrice": 414622068,
+    "LevelID": 43
+  },
+  {
+    "LevelServiceSpeed": 23.2,
+    "LevelPrice": 559739791,
+    "LevelID": 44
+  },
+  {
+    "LevelServiceSpeed": 22.75,
+    "LevelPrice": 755648717,
+    "LevelID": 45
+  },
+  {
+    "LevelServiceSpeed": 22.3,
+    "LevelPrice": 1020125767,
+    "LevelID": 46
+  },
+  {
+    "LevelServiceSpeed": 21.85,
+    "LevelPrice": 1377169785,
+    "LevelID": 47
+  },
+  {
+    "LevelServiceSpeed": 21.4,
+    "LevelPrice": 1859179209,
+    "LevelID": 48
+  },
+  {
+    "LevelServiceSpeed": 20.95,
+    "LevelPrice": 2509891932,
+    "LevelID": 49
+  },
+  {
+    "LevelServiceSpeed": 20.5,
+    "LevelPrice": 3388354108,
+    "LevelID": 50
+  },
+  {
+    "LevelServiceSpeed": 20.05,
+    "LevelPrice": 4574278045,
+    "LevelID": 51
+  },
+  {
+    "LevelServiceSpeed": 19.6,
+    "LevelPrice": 6175275360,
+    "LevelID": 52
+  },
+  {
+    "LevelServiceSpeed": 19.15,
+    "LevelPrice": 8336621736,
+    "LevelID": 53
+  },
+  {
+    "LevelServiceSpeed": 18.7,
+    "LevelPrice": 11254439343,
+    "LevelID": 54
+  },
+  {
+    "LevelServiceSpeed": 18.25,
+    "LevelPrice": 15193493113,
+    "LevelID": 55
+  },
+  {
+    "LevelServiceSpeed": 17.8,
+    "LevelPrice": 20511215702,
+    "LevelID": 56
+  },
+  {
+    "LevelServiceSpeed": 17.35,
+    "LevelPrice": 27690141197,
+    "LevelID": 57
+  },
+  {
+    "LevelServiceSpeed": 16.9,
+    "LevelPrice": 37381690615,
+    "LevelID": 58
+  },
+  {
+    "LevelServiceSpeed": 16.45,
+    "LevelPrice": 50465282330,
+    "LevelID": 59
+  },
+  {
+    "LevelServiceSpeed": 16,
+    "LevelPrice": 68128131145,
+    "LevelID": 60
+  },
+  {
+    "LevelServiceSpeed": 15.83,
+    "LevelPrice": 91972977045,
+    "LevelID": 61
+  },
+  {
+    "LevelServiceSpeed": 15.65,
+    "LevelPrice": 124164000000,
+    "LevelID": 62
+  },
+  {
+    "LevelServiceSpeed": 15.48,
+    "LevelPrice": 167621000000,
+    "LevelID": 63
+  },
+  {
+    "LevelServiceSpeed": 15.3,
+    "LevelPrice": 226288000000,
+    "LevelID": 64
+  },
+  {
+    "LevelServiceSpeed": 15.13,
+    "LevelPrice": 305489000000,
+    "LevelID": 65
+  },
+  {
+    "LevelServiceSpeed": 14.95,
+    "LevelPrice": 412410000000,
+    "LevelID": 66
+  },
+  {
+    "LevelServiceSpeed": 14.78,
+    "LevelPrice": 556753000000,
+    "LevelID": 67
+  },
+  {
+    "LevelServiceSpeed": 14.6,
+    "LevelPrice": 751617000000,
+    "LevelID": 68
+  },
+  {
+    "LevelServiceSpeed": 14.43,
+    "LevelPrice": 1014680000000,
+    "LevelID": 69
+  },
+  {
+    "LevelServiceSpeed": 14.25,
+    "LevelPrice": 1369820000000,
+    "LevelID": 70
+  },
+  {
+    "LevelServiceSpeed": 14.08,
+    "LevelPrice": 1849260000000,
+    "LevelID": 71
+  },
+  {
+    "LevelServiceSpeed": 13.9,
+    "LevelPrice": 2496500000000,
+    "LevelID": 72
+  },
+  {
+    "LevelServiceSpeed": 13.73,
+    "LevelPrice": 3370280000000,
+    "LevelID": 73
+  },
+  {
+    "LevelServiceSpeed": 13.55,
+    "LevelPrice": 4549870000000,
+    "LevelID": 74
+  },
+  {
+    "LevelServiceSpeed": 13.38,
+    "LevelPrice": 6142330000000,
+    "LevelID": 75
+  },
+  {
+    "LevelServiceSpeed": 13.2,
+    "LevelPrice": 8292140000000,
+    "LevelID": 76
+  },
+  {
+    "LevelServiceSpeed": 13.03,
+    "LevelPrice": 11194400000000,
+    "LevelID": 77
+  },
+  {
+    "LevelServiceSpeed": 12.85,
+    "LevelPrice": 15112400000000,
+    "LevelID": 78
+  },
+  {
+    "LevelServiceSpeed": 12.68,
+    "LevelPrice": 20401800000000,
+    "LevelID": 79
+  },
+  {
+    "LevelServiceSpeed": 12.5,
+    "LevelPrice": 27542400000000,
+    "LevelID": 80
+  },
+  {
+    "LevelServiceSpeed": 12.38,
+    "LevelPrice": 37182200000000,
+    "LevelID": 81
+  },
+  {
+    "LevelServiceSpeed": 12.25,
+    "LevelPrice": 50196000000000,
+    "LevelID": 82
+  },
+  {
+    "LevelServiceSpeed": 12.13,
+    "LevelPrice": 67764600000000,
+    "LevelID": 83
+  },
+  {
+    "LevelServiceSpeed": 12,
+    "LevelPrice": 91482300000000,
+    "LevelID": 84
+  },
+  {
+    "LevelServiceSpeed": 11.88,
+    "LevelPrice": 123501000000000,
+    "LevelID": 85
+  },
+  {
+    "LevelServiceSpeed": 11.75,
+    "LevelPrice": 166726000000000,
+    "LevelID": 86
+  },
+  {
+    "LevelServiceSpeed": 11.63,
+    "LevelPrice": 225081000000000,
+    "LevelID": 87
+  },
+  {
+    "LevelServiceSpeed": 11.5,
+    "LevelPrice": 303859000000000,
+    "LevelID": 88
+  },
+  {
+    "LevelServiceSpeed": 11.38,
+    "LevelPrice": 410210000000000,
+    "LevelID": 89
+  },
+  {
+    "LevelServiceSpeed": 11.25,
+    "LevelPrice": 553783000000000,
+    "LevelID": 90
+  },
+  {
+    "LevelServiceSpeed": 11.13,
+    "LevelPrice": 747607000000000,
+    "LevelID": 91
+  },
+  {
+    "LevelServiceSpeed": 11,
+    "LevelPrice": 1009270000000000,
+    "LevelID": 92
+  },
+  {
+    "LevelServiceSpeed": 10.88,
+    "LevelPrice": 1362510000000000,
+    "LevelID": 93
+  },
+  {
+    "LevelServiceSpeed": 10.75,
+    "LevelPrice": 1839390000000000,
+    "LevelID": 94
+  },
+  {
+    "LevelServiceSpeed": 10.63,
+    "LevelPrice": 2483180000000000,
+    "LevelID": 95
+  },
+  {
+    "LevelServiceSpeed": 10.5,
+    "LevelPrice": 3352290000000000,
+    "LevelID": 96
+  },
+  {
+    "LevelServiceSpeed": 10.38,
+    "LevelPrice": 4525600000000000,
+    "LevelID": 97
+  },
+  {
+    "LevelServiceSpeed": 10.25,
+    "LevelPrice": 6109560000000000,
+    "LevelID": 98
+  },
+  {
+    "LevelServiceSpeed": 10.13,
+    "LevelPrice": 8247900000000000,
+    "LevelID": 99
+  },
+  {
+    "LevelServiceSpeed": 10,
+    "LevelPrice": 11134700000000000,
+    "LevelID": 100
+  }
+]

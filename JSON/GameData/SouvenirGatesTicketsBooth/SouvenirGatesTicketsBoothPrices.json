@@ -1,0 +1,18 @@
+[
+    {
+        "GatesTicketsBoothID":1.0,
+        "GatesTicketsBoothPrice":0.0
+    },
+    {
+        "GatesTicketsBoothID":2.0,
+        "GatesTicketsBoothPrice":10000.0
+    },
+    {
+        "GatesTicketsBoothID":3.0,
+        "GatesTicketsBoothPrice":10000000.0
+    },
+    {
+        "GatesTicketsBoothID":4.0,
+        "GatesTicketsBoothPrice":100000000.0
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "DayCycleActivityID":1.0,
+        "DayCycleActivityType":1.0,
+        "DayCycleActivityLength":60.0,
+        "DayCycleActivityDesc":"Отдых"
+    },
+    {
+        "DayCycleActivityID":2.0,
+        "DayCycleActivityType":2.0,
+        "DayCycleActivityLength":60.0,
+        "DayCycleActivityDesc":"Кормление"
+    },
+    {
+        "DayCycleActivityID":3.0,
+        "DayCycleActivityType":1.0,
+        "DayCycleActivityLength":60.0,
+        "DayCycleActivityDesc":"Отдых"
+    },
+    {
+        "DayCycleActivityID":4.0,
+        "DayCycleActivityType":4.0,
+        "DayCycleActivityLength":60.0,
+        "DayCycleActivityDesc":"Уборка"
+    }
+]

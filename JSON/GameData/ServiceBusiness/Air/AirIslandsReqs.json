@@ -1,0 +1,11 @@
+[
+  {
+    "IslandID": 1,
+    "Level1HardMoneyBonus": 5,
+    "Level1HardMoneyBonusPrice": 10,
+    "Level2HardMoneyBonus": 10,
+    "Level2HardMoneyBonusPrice": 10,
+    "Level3HardMoneyBonus": 15,
+    "Level3HardMoneyBonusPrice": 10
+  }
+]

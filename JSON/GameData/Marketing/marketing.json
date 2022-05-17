@@ -1,0 +1,31 @@
+[
+  {
+    "MarketingCampaignID" : 1,
+    "MarketingCampaignDuration": 30,
+    "MarketingCampaignBonus": 20,
+    "MarketingCampaignCoeffPrice": 0.167,
+    "MarketingCampaignName": "NewsPaper"
+  },
+  {
+    "MarketingCampaignID" : 2,
+    "MarketingCampaignDuration": 60,
+    "MarketingCampaignBonus": 40,
+    "MarketingCampaignCoeffPrice": 0.083,
+    "MarketingCampaignName": "Radio"
+  },
+  {
+    "MarketingCampaignID" : 3,
+    "MarketingCampaignDuration": 120,
+    "MarketingCampaignBonus": 60,
+    "MarketingCampaignCoeffPrice": 0.083,
+    "MarketingCampaignName": "TV"
+  },
+  {
+    "MarketingCampaignID" : 4,
+    "MarketingCampaignDuration": 240,
+    "MarketingCampaignBonus": 100,
+    "MarketingCampaignCoeffPrice": 0.083,
+    "MarketingCampaignHardPrice": 10,
+    "MarketingCampaignName": "Internet"
+  }
+]

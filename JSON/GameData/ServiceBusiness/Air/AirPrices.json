@@ -1,0 +1,34 @@
+[
+  {
+    "ServiceBusinessID": 1,
+    "ServiceBusinessPrice": 0
+  },
+  {
+    "ServiceBusinessID": 2,
+    "ServiceBusinessPrice": 100
+  },
+  {
+    "ServiceBusinessID": 3,
+    "ServiceBusinessPrice": 2500
+  },
+  {
+    "ServiceBusinessID": 4,
+    "ServiceBusinessPrice": 50000
+  },
+  {
+    "ServiceBusinessID": 5,
+    "ServiceBusinessPrice": 2500000
+  },
+  {
+    "ServiceBusinessID": 6,
+    "ServiceBusinessPrice": 100000000
+  },
+  {
+    "ServiceBusinessID": 7,
+    "ServiceBusinessPrice": 10000000000
+  },
+  {
+    "ServiceBusinessID": 8,
+    "ServiceBusinessPrice": 5000000000000
+  }
+]

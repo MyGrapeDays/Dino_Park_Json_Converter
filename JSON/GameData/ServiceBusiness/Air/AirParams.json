@@ -1,0 +1,12 @@
+[
+  {
+    "ServiceBusinessIslandIncome": 10,
+    "ServiceBusinessThresholdIsland1": 40,
+    "ServiceBusinessThresholdIsland2": 80,
+    "ServiceBusinessThresholdIsland3": 120,
+    "ServiceBusinessThresholdIsland4": 160,
+    "ServiceBusinessThresholdIsland5": 200,
+    "ServiceBusinessThresholdIsland6": 240,
+    "ServiceBusinessThresholdIsland7": 280
+  }
+]

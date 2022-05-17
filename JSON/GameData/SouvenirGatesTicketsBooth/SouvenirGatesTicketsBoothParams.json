@@ -1,0 +1,12 @@
+[
+    {
+        "GatesTicketsBoothIslandIncome":0.5,
+        "GatesTicketsBoothThresholdIsland1":40.0,
+        "GatesTicketsBoothThresholdIsland2":80.0,
+        "GatesTicketsBoothThresholdIsland3":120.0,
+        "GatesTicketsBoothThresholdIsland4":160.0,
+        "GatesTicketsBoothThresholdIsland5":200.0,
+        "GatesTicketsBoothThresholdIsland6":240.0,
+        "GatesTicketsBoothBuyBusinessPrice":1000.0
+    }
+]
